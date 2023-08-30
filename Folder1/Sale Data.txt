@@ -1,0 +1,7 @@
+Product	Units   Sold	Revenue (USD)
+Widget A	    500	    25,000
+Widget B	    1,000	50,000
+Widget C	    2,000	100,000
+Widget D	    750	    37,500
+Widget E	    1,250	62,500
+Total		    5,500	225,000

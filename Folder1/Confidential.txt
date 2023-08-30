@@ -1,0 +1,38 @@
+CONFIDENTIAL: Memorandum of Understanding between XYZ Corporation and ABC Company
+
+This Memorandum of Understanding ("MOU") sets forth the general terms and conditions under which XYZ Corporation ("XYZ") and ABC Company ("ABC") plan to 
+collaborate on the development of a new product.
+
+Purpose: The purpose of this MOU is to establish a framework for collaboration between XYZ and ABC for the joint development of a new product.
+
+Scope of Work: The scope of work under this MOU will include research and development, design, testing, and commercialization of the new product.
+
+Ownership and Intellectual Property: Any and all intellectual property rights in and to the new product will be jointly owned by XYZ and ABC.
+
+Timeframe: The parties anticipate that the collaboration will be completed within 12 months of the date of this MOU.
+
+Confidentiality: The parties agree to keep the terms of this MOU, as well as any information exchanged during the collaboration, confidential and not to 
+disclose such information to any third party without the prior written consent of the other party.
+
+Governing Law: This MOU will be governed by and construed in accordance with the laws of the State of California.
+
+Dispute Resolution: Any disputes arising under or in connection with this MOU will be resolved through mediation, and if necessary, 
+binding arbitration in accordance with the rules of the American Arbitration Association.
+
+Entire Agreement: This MOU contains the entire understanding of the parties with respect to the subject matter hereof and supersedes 
+all prior and contemporaneous agreements and understandings, whether oral or written.
+
+Amending and Modifying: This MOU may be amended or modified only by a written instrument executed by both parties.
+
+Counterparts: This MOU may be executed in counterparts, each of which will be deemed an original and all of which, when taken together, 
+will constitute one and the same instrument.
+
+IN WITNESS WHEREOF, the parties have executed this MOU as of the date first above written.
+
+XYZ Corporation
+
+Authorized Signatory
+
+ABC Company
+
+Authorized Signatory"
